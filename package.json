@@ -1,0 +1,25 @@
+{
+  "name": "prapi",
+  "version": "1.0.0",
+  "description": "a Promise/A+ implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests test-adapter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zcoding4mer/prapi.git"
+  },
+  "keywords": [
+    "promises-aplus"
+  ],
+  "author": "zcoding4mer",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Zcoding4mer/prapi/issues"
+  },
+  "homepage": "https://github.com/Zcoding4mer/prapi#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
